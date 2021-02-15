@@ -1,7 +1,7 @@
 # NodeJsExpressJs
-install node JS
-buka cmd pada myapp
-npm install
-set DEBUG=myapp:* & npm start
+<p>install node JS</p>
+<p>buka cmd pada myapp</p>
+<p>npm install</p>
+<p>set DEBUG=myapp:* & npm start</p>
 
-buka daro localhost:3000
+<p>buka dari localhost:3000</p>
